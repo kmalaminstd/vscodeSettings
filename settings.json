@@ -1,0 +1,47 @@
+{
+    "remote.downloadExtensionsLocally": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.useWebExt": true,
+    "editor.fontSize": 17,
+    "editor.fontFamily": "Operator Mono",
+    "editor.fontWeight": "null",
+    // "editor.fontFamily": "MonaLisa, Menlo, Monaco, monospace",
+    "liveServer.settings.donotVerifyTags": true,
+    "php.validate.executablePath": "",
+    "shareCode.pastebin.username": "",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]":{
+        "editor.maxTokenizationLineLength": 2500,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 60,
+    "tabnine.experimentalAutoImports": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.port" : 0,
+    "liveServer.settings.NoBrowser": true,
+    "workbench.colorCustomizations": {
+        "sideBar.background": "#141422",
+        "activityBar.background": "#2c2c54",
+        "editorGroupHeader.tabsBackground": "#2c2c54",
+       "titleBar.activeBackground": "#212214",
+       "terminal.background": "#282a2b",
+       "terminalCursor.foreground": "#A89984",
+       "statusBar.background": "#1676ad",
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontWeight": "normal",
+    "jake.autoDetect": "on",
+    "grunt.autoDetect": "on",
+    "gulp.autoDetect": "on",
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono"
+}
+    
