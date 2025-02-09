@@ -1,0 +1,108 @@
+{
+    "remote.downloadExtensionsLocally": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.useWebExt": true,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "JetBrains Mono , monospace",
+    "editor.fontWeight": "bold",
+    // "editor.fontFamily": "MonaLisa, Menlo, Monaco, monospace",
+    "liveServer.settings.donotVerifyTags": true,
+    "php.validate.executablePath": "",
+    "shareCode.pastebin.username": "",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]":{
+        "editor.maxTokenizationLineLength": 2500,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 60,
+    "tabnine.experimentalAutoImports": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.port": 5500,
+    "workbench.colorCustomizations": {
+        "sideBar.background": "#141422",
+        "activityBar.background": "#2c2c54",
+        "editorGroupHeader.tabsBackground": "#2c2c54",
+       "titleBar.activeBackground": "#212214",
+       "terminal.background": "#282a2b",
+       "terminalCursor.foreground": "#A89984",
+       "statusBar.background": "#1676ad",
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontWeight": "400",
+    "jake.autoDetect": "on",
+    "grunt.autoDetect": "on",
+    "gulp.autoDetect": "on",
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
+    // better comment
+    "better-comments.multilineComments": true,
+    "better-comments.tags": [
+        {
+          "tag": "!",
+          "color": "#FF2D00",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "?",
+          "color": "#3498DB",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "//",
+          "color": "#474747",
+          "strikethrough": true,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": true
+        },
+        {
+          "tag": "todo",
+          "color": "#FF8C00",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "*",
+          "color": "#98C379",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "phpserver.phpConfigPath": "D:\\xampp\\php/php.ini",
+      "phpserver.phpPath": "D:\\xampp\\php/php.exe",
+      "liveServer.settings.root": "",
+      "liveServer.settings.donotShowInfoMsg": true,
+      "liveServer.settings.mount": [
+        
+      ],
+      "liveServer.settings.ChromeDebuggingAttachment": false,
+      "liveServer.settings.AdvanceCustomBrowserCmdLine": "brave",
+      "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+      }
+}
